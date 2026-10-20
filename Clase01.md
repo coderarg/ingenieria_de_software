@@ -1,4 +1,8 @@
-[-> Clase 2](./Clase02.md)
+<div style="display:flex; justify-content: space-between;">
+    <span styles="width:100px;"></span>
+    <a href="./Readme.md">Readme</a>
+    <a href="./Clase02.md">-> Clase 2</a>
+</div>
 
 # Ingeniería de Software
 
@@ -96,6 +100,6 @@ Al implementar controles la organización debe considerar los costos y beneficio
 #### Regla
 <i>"El costo de control nunca debería exceder el beneficio esperado"</i>
 
-<div style="width: 450px; diplay:flex; flex-direction:row; justify-content:flex-end;">
+<div style="text-align: right;">
     <a href="./Clase02.md">-> Clase 2</a>
 </div>

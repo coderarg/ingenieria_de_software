@@ -1,6 +1,8 @@
-[Clase 1 <-](./Clase01.md) [-> Clase 3](./Clase03.md)
-## Dominios de Aplicación de Software
-</br>
+<div style="display:flex; justify-content: space-between;">
+    <a href="./Clase01.md">Clase 1 <-</a>
+    <a href="./Readme.md">Readme</a>
+    <a href="./Clase03.md">-> Clase 3</a>
+</div>
 
 ### Software de Sistemas
 Programas que dan servicios a otros programas. Tienen contacto directo con el hardware con el fin de gestionar los recursos físicos del ordenador como ejecución de procesos o gestión de memoria RAM.
@@ -22,4 +24,8 @@ Sitios web levandaos en servidores que permiten el acceso de forma pública. Est
 Es software que se utiliza para una función muy puntual de algún objeto. Por ejemplo, placas de arduino, micro PLC, la ECU de los vehículos automotores o el software que corre en la plaqueta de una cafetera moderna con temporizador multifunción.
 </br>
 
-### 
+<div style="display:flex; justify-content: space-between;">
+    <a href="./Clase01.md">Clase 1 <-</a>
+    <a href="./Readme.md">Readme</a>
+    <a href="./Clase03.md">-> Clase 3</a>
+</div>
