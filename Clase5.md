@@ -4,9 +4,6 @@
     <a href="./Clase06.md">-> Clase 6</a>
 </div>
 
-### Clase 5
-
-
 ## Calidad
 Proceso eficaz de software que se aplica de manera que crea un producto útil que proporciona valor medible a quienes lo producen y a quienes lo utilizan. <br>
 (Proceso eficaz de software que genera un producto útil y agrega valor al que lo utiliza)
